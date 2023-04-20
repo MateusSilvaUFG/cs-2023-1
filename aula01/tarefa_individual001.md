@@ -14,6 +14,7 @@
       * Informe o nome do seu usuário no _github_; **MateusSilvaUFG**
       * Crie um repositório com o nome **cs-2023-1** e compartilhe com o professor. Meu usuário no _github_ para trabalhos acadêmicos é **gilmarUFG**;
       * Crie duas novas _branchs_ no seu repositório pessoal. Uma para você fazer _commit_ das tarefas da disciplina e outra com o nome **professor**. Esta _branch_ receberá o conteúdo da sua _branch_ somente através de operações de _pull request_.
+      
    9.2.  Se não:
       *  Crie uma conta e informe o nome do seu usuário;
       *  Crie um repositório com o nome **cs-2023-1** e compartilhe com o professor.  Meu usuário no _github_ para trabalhos acadêmicos é **gilmarUFG**;
