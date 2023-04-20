@@ -79,5 +79,3 @@ Por indicar uma Transferência de Estado Representacional, a arquitetura REST po
 As restrições listadas pelo estilo REST indicam benefícios importantes para o desenvolvimento de aplicações e sistemas. Afinal, elas resultam em maior flexibilidade, menor consumo de banda, mais segurança e padronização de protocolos. 
 
 Deste modo, o padrão REST é o método de preferência na integração de aplicações e na conexão de componentes de softwares. Grandes sites como Twitter, Amazon e Linkedin utilizam APIs do tipo RESTful.
-
-
