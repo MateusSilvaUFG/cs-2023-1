@@ -19,14 +19,14 @@ Outra vantagem de usar APIs é que não é necessário saber todos os detalhes s
 ## **O Que Faz uma API ser do Tipo REST**
 
 
-REST (Representational State Transfer)  não é um protocolo ou padrão, mas um conjunto de restrições de arquitetura que devem ser seguidas no desenvolvimento de uma aplicação na internet Estas regras permitem o desenvolvimento de uma aplicação com interface bem definida, com rotinas padronizadas e facilmente representadas, que facilitam a comunicação entre máquinas e usuários.
+REST (Representational State Transfer)  não é um protocolo ou padrão, mas um conjunto de restrições de arquitetura que devem ser seguidas no desenvolvimento de uma aplicação na internet. Estas regras permitem o desenvolvimento de uma aplicação com interface bem definida, com rotinas padronizadas e facilmente representadas, que facilitam a comunicação entre máquinas e usuários.
 
 Quando um cliente faz uma solicitação usando uma API RESTful, essa API transfere uma representação do estado do recurso ao solicitante ou endpoint. Essa informação (ou representação) é entregue via HTTP utilizando um dos vários formatos possíveis:
  Javascript Object Notation (JSON), HTML, XLT, Python, PHP ou texto sem formatação.
 
 Os cabeçalhos e parâmetros são importantes nos métodos HTTP de uma solicitação HTTP de API RESTful porque contêm informações sobre o identificador, metadados, autorização, Uniform Resource Identifier (URI), cache, cookies e outras informações da solicitação. Há os cabeçalhos da solicitação e os cabeçalhos da resposta, cada um contendo as informações de suas respectivas conexões HTTP e códigos de status.
 
-Para que uma API seja considerada do tipo RESTful, ela precisa está em conformidade com os seguintes critérios:
+Para que uma API seja considerada do tipo RESTful, ela precisa estar em conformidade com os seguintes critérios:
 
 * **Arquitetura cliente-servidor:** indica uma arquitetura baseada em clientes, servidores e recursos, em que as solicitações são feitas via protocolo HTTP. Essa condição está ligada à independência entre o cliente e o servidor. Ou seja, mudanças feitas pelo usuário na aplicação em seu dispositivo não devem afetar o servidor e sua estrutura de dados. De mesmo modo, alterações feitas pelos desenvolvedores nos bancos de dados da aplicação não devem instantaneamente impactar o dispositivo do usuário.
 
@@ -40,7 +40,7 @@ Para que uma API seja considerada do tipo RESTful, ela precisa está em conformi
    * As mensagens autodescritivas retornadas ao cliente contenham informações suficientes para descrever como processá-las;
    * Hipertexto e hipermídia estão disponíveis. Isso significa que após acessar um recurso, o cliente pode usar hiperlinks para encontrar as demais ações disponíveis para ele no momento.
    * A manipulação de recursos através de representações (JSON ou XML).
-* **Sistema em camadas:** Ter um sistema em camadas que organiza os tipos de servidores com uma funcionalidade específica como (responsáveis pela segurança, pelo carregamento de carga e assim por diante) envolvidos na recuperação das informações solicitadas em hierarquias, mas apesar de serem separadas, todas interagem entre si.
+* **Sistema em camadas:** Ter um sistema em camadas que organiza os tipos de servidores com uma funcionalidade específica como (segurança ou pelo carregamento). Assim, cada camada é responsável por uma etapa diferente dos processos de requisição de usuário e de resposta do servidor. Essas camads são organizadas em hierarquias, mas apesar de serem separadas, todas interagem entre si.
 
 
 ## **Como Funcionam as APIs RESTful**
