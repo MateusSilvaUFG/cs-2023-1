@@ -9,6 +9,7 @@
 7. Tem conhecimento sobre bancos de dados relacionais? **não.**
 8. Tem conhecimento sobre bancos de dados não relacionais (_NoSQL_)? **não.**
 9. Tem conta no _github_? **sim.**
+
    9.1.  Se sim:
       * Informe o nome do seu usuário no _github_; **MateusSilvaUFG**
       * Crie um repositório com o nome **cs-2023-1** e compartilhe com o professor. Meu usuário no _github_ para trabalhos acadêmicos é **gilmarUFG**;
