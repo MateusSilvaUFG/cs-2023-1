@@ -49,7 +49,7 @@ Uma API RESTful funciona através da manipulação de recursos e representaçõe
 
 Assim, quando um usuário deseja usar uma funcionalidade da aplicação, seu dispositivo envia uma solicitação via HTTP ao servidor. O servidor localiza o recurso e comunica a representação do estado dele na resposta ao usuário através do mesmo protocolo. E são essas representações que podem ser feitas em diversos formatos.
 
-![1](https://user-images.githubusercontent.com/131163948/233358493-ba268609-9a7e-4659-8149-2fd04942d328.png).
+![1](https://user-images.githubusercontent.com/131163948/233363809-57b8f9b4-36b7-466a-bd0e-ebeeb491cbd5.png)
 
 As solicitações da aplicação requerem a execução de alguma função padrão no banco de dados do sistema. Por exemplo, a API RESTful envia ao servidor, via HTTP, uma requisição para executar uma função básica, como deletar o usuário “Mateus” da lista de usuários. A solicitação enviada nesse exemplo, seria a seguinte: 
 
