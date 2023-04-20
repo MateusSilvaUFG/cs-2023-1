@@ -9,11 +9,11 @@
 7. Tem conhecimento sobre bancos de dados relacionais? **não.**
 8. Tem conhecimento sobre bancos de dados não relacionais (_NoSQL_)? **não.**
 9. Tem conta no _github_? **sim.**
-  9.1.  Se sim:
+   9.1.  Se sim:
       * Informe o nome do seu usuário no _github_; **MateusSilvaUFG**
       * Crie um repositório com o nome **cs-2023-1** e compartilhe com o professor. Meu usuário no _github_ para trabalhos acadêmicos é **gilmarUFG**;
       * Crie duas novas _branchs_ no seu repositório pessoal. Uma para você fazer _commit_ das tarefas da disciplina e outra com o nome **professor**. Esta _branch_ receberá o conteúdo da sua _branch_ somente através de operações de _pull request_.
-  9.2.  Se não:
+   9.2.  Se não:
       *  Crie uma conta e informe o nome do seu usuário;
       *  Crie um repositório com o nome **cs-2023-1** e compartilhe com o professor.  Meu usuário no _github_ para trabalhos acadêmicos é **gilmarUFG**;
       * Crie duas novas _branchs_ no seu repositório pessoal. Uma para você fazer _commit_ das tarefas da disciplina e outra com o nome **professor**. Esta _branch_ receberá o conteúdo da sua _branch_ somente através de operações de _pull request_.
