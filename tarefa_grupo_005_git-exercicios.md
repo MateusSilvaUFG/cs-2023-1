@@ -63,18 +63,28 @@ o git reset retira o arquivo do Stage e o git checkout descarta as alterações 
 
 
 
+***
 1. git --version
 
 2.
-  a.  mostra algumas funções do git com uma breve descrição, como push update refs along with associated objecs 
+  a.  mostra algumas funções do git com uma breve descrição, como push update refs along with associated objecs
+  
   b.  utilizado para ver o que a função **checkou** Atualiza arquivos na árvore de trabalho para corresponder à versão no índice ou na árvore especificada. Se nenhum pathspec foi fornecido, o git checkout também atualizará o HEAD para definir o branch especificado como o ramo atual. Que precisa ser finalizado com Q.
+  
   c. Gera no terminal um guia de como utilizar merge, com a descrição geral, opções de uso com uma descrição breve, exemplos, resolução de conflitos
+  
   d. cria um repositório. Ele pode ser usado para converter um projeto existente e não versionado em um repositório do Git ou inicializar um novo repositório vazio.
+  
   e. para adicionar e confirmar os arquivos ou alterações ao repositório.
+  
   f. Atualize o índice exatamente onde ele já possui uma entrada correspondente a <pathspec>. Isso remove e modifica entradas de índice para corresponder à árvore de trabalho, mas não adiciona novos arquivos. Se nenhum <pathspec> for fornecido quando a opção -u for usada, todos os arquivos rastreados em toda a árvore de trabalho serão atualizados (versões antigas do Git usadas para limitar a atualização ao diretório atual e seus subdiretórios).
+  
   g. Liste todas as variáveis definidas no arquivo de configuração, junto com seus valores.
+ 
   h. O comando é usado para renomear arquivos como a.txt para b.txt
+ 
   i. Reset os commit, passando a exibir o último commit.
+
   j. Exibe os últimos 27 commits.
   
 3.git add ... 
@@ -101,7 +111,7 @@ git commit...
 
 12. ~/.gitconfig 
 
-13. Criar uma nova pasta ,abra-a e execute o comando git init.
+13. Criar uma nova pasta ,a bra-a e execute o comando git init.
 
 14. O nome será o mesmo do repositório onde foi executado e endereço onde encontrar,como por exemplo , Reinitialized existing Git repository in C:/Users/keslley/Teste/.git/ 
 
