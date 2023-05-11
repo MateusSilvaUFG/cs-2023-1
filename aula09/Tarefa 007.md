@@ -37,7 +37,6 @@ O artigo também mostra uma  lista de verificação para verificar e testar todo
 Durante o processo de revisão, você também deve ter notado que havia formas de obter os mesmos resultados de forma mais eficiente ou simples.
 
 **Ferramenta**
-
 O artigo também lista uma ferramenta chamada [AppMaster](https://appmaster.io/pt), que uma das grandes vantragens da plataforma é que gera imediatamente um código limpo e bonito, no qual não há espaço  revisão de código, Porque tanto em projetos de código aberto quanto no AppMaster, todos os blocos e elementos já foram verificados um milhão de vezes, e a plataforma não permite código incorreto. 
 
 
