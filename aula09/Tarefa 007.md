@@ -55,4 +55,20 @@ O artigo também lista uma ferramenta chamada [AppMaster](https://appmaster.io/p
 
  Você pode usar o Codacy para impor seu padrão de qualidade de código, economizar tempo em revisões de código, aplicar melhor as práticas recomendadas de segurança e os desenvolvedores onboard mais rapidamente. Integre com seus repositórios GitHub para obter uma análise de qualidade de cada solicitação pull dentro do GitHub.
 
+Os objetivos da revisão de código mencionados em ambos os links incluem:
+*  Identificar erros e bugs no código.
+*  Melhorar a qualidade e legibilidade do código.
+*  Garantir a aderência às diretrizes de codificação.
+*  Promover a colaboração e o compartilhamento de conhecimento na equipe de desenvolvimento.
+*  O processo de revisão de código envolve:
+
+Selecionar um revisor qualificado.
+*  Definir um conjunto de diretrizes e padrões de codificação.
+*  Realizar a revisão de forma sistemática e estruturada.
+*  Fornecer feedback construtivo e sugestões de melhorias.
+ 
+Algumas ferramentas de suporte à revisão de código mencionadas nos links são:
+*  Linters: Verificam automaticamente o código em busca de problemas como erros de sintaxe, estilo e possíveis bugs.
+*  Analisadores estáticos: Analisam o código em busca de problemas de qualidade, como vulnerabilidades de segurança, baixa  performance, entre outros.
+*  Sistemas de integração contínua: Permitem a execução automatizada de testes e análise do código em cada nova alteração,   fornecendo feedback imediato sobre possíveis problemas.
 
