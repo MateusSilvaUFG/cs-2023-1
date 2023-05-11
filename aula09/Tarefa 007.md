@@ -51,4 +51,8 @@ O artigo também lista uma ferramenta chamada [AppMaster](https://appmaster.io/p
   
  O [CodeFactor.io](https://github.com/marketplace/codefactor) integra-se perfeitamente ao GitHub, realiza instantaneamente o Code Review com cada GitHub Commit ou PR. Tempo de configuração zero. Receba feedback acionável em segundos para qualquer agência. Personalize regras e ignore problemas irrelevantes. Obtenha dicas de refatoração em todos os problemas
 
+[Codacy](https://github.com/marketplace/codacy), é uma ferramenta automatizada de análise / qualidade de código que ajuda os desenvolvedores a enviar um software melhor, mais rápido. Com Codacy, você obtém alterações de análise estática, complexidade ciclomática, duplicação e cobertura de teste de unidade de código em cada solicitação de confirmação e pull.
+
+ Você pode usar o Codacy para impor seu padrão de qualidade de código, economizar tempo em revisões de código, aplicar melhor as práticas recomendadas de segurança e os desenvolvedores onboard mais rapidamente. Integre com seus repositórios GitHub para obter uma análise de qualidade de cada solicitação pull dentro do GitHub.
+
 
