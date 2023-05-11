@@ -28,3 +28,18 @@ O artigo também mostra uma  lista de verificação para verificar e testar todo
 *   A nomenclatura dentro dos testes.
 
 **Documentação:** Em primeiro lugar, se o projeto vier com alguma documentação, você deve verificar e revisar a documentação também. Segundo, se as alterações feitas no código incluírem a adição de um novo recurso, certifique-se de atualizar a documentação e, em seguida, revise suas atualizações.
+
+**Possibilidade de melhoria:** se existem maneiras de melhorar o projeto para que você mesmo possa fazer as alterações ou informar o autor do código sobre as possibilidades que você identificou.
+
+**Acompanha as alterações:**  para mostrar o seu feedback ao autor do código.
+
+**Forneça seu feedback:** Ao final do processo de revisão de código, você pode compartilhar seus comentários com o autor do código. A lista de verificação de revisão de código também o ajudará com isso. Você pode passar por cada ponto e cada teste para mostrar o que está funcionando e o que precisa ser corrigido.
+Durante o processo de revisão, você também deve ter notado que havia formas de obter os mesmos resultados de forma mais eficiente ou simples.
+
+**Ferramenta**
+
+O artigo também lista uma ferramenta chamada [AppMaster](https://appmaster.io/pt), que uma das grandes vantragens da plataforma é que gera imediatamente um código limpo e bonito, no qual não há espaço  revisão de código, Porque tanto em projetos de código aberto quanto no AppMaster, todos os blocos e elementos já foram verificados um milhão de vezes, e a plataforma não permite código incorreto. 
+
+
+
+
