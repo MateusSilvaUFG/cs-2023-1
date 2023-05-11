@@ -39,6 +39,17 @@ Durante o processo de revisão, você também deve ter notado que havia formas d
 **Ferramenta**
 O artigo também lista uma ferramenta chamada [AppMaster](https://appmaster.io/pt), que uma das grandes vantragens da plataforma é que gera imediatamente um código limpo e bonito, no qual não há espaço  revisão de código, Porque tanto em projetos de código aberto quanto no AppMaster, todos os blocos e elementos já foram verificados um milhão de vezes, e a plataforma não permite código incorreto. 
 
-
+## Resumo Descritivo do LINK 2 [Medium](https://medium.com/codigorefinado/code-review-revis%C3%A3o-de-c%C3%B3digo-pode-ser-automatizada-ba5f25882774)
+  Neste link, é discutida a importância da revisão de código e se é possível automatizar essa prática. O artigo destaca que a revisão de código é uma atividade essencial para encontrar erros, melhorar a qualidade do código e promover a colaboração da equipe. No entanto, reconhece que a revisão manual pode ser demorada e propensa a erros humanos. O artigo sugere a possibilidade de automação , mencionando ferramentas como linters, analisadores estáticos e sistemas de integração contínua, que podem auxiliar na detecção automática de problemas no código. Além disso, o artigo aborda a importância de equilibrar a automação com a revisão humana, enfatizando que a revisão manual ainda é necessária para questões mais complexas e de contexto.
+  
+  Das ferramentes citadas pelo artigo temos:
+  
+  [ESLint](https://eslint.org/), [TSLint](https://palantir.github.io/tslint/), [Codelizer](http://codelyzer.com/),[Checkstyle](https://checkstyle.sourceforge.io/),[SonarQube](https://www.sonarsource.com/products/sonarqube/).
+  
+  Estas ferramentas, através de plugins podem ser integradas a sua IDE, e te avisar da não conformidade enquanto você digita o código.
+  
+  [Codefactor](https://github.com/marketplace/codefactor), Certifique-se de que seu código atenda aos padrões de qualidade.
+  
+ O [CodeFactor.io](https://github.com/marketplace/codefactor) integra-se perfeitamente ao GitHub, realiza instantaneamente o Code Review com cada GitHub Commit ou PR. Tempo de configuração zero. Receba feedback acionável em segundos para qualquer agência. Personalize regras e ignore problemas irrelevantes. Obtenha dicas de refatoração em todos os problemas
 
 
