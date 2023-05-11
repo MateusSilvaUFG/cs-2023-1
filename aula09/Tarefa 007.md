@@ -54,7 +54,7 @@ O artigo também lista uma ferramenta chamada [AppMaster](https://appmaster.io/p
 [Codacy](https://github.com/marketplace/codacy), é uma ferramenta automatizada de análise / qualidade de código que ajuda os desenvolvedores a enviar um software melhor, mais rápido. Com Codacy, você obtém alterações de análise estática, complexidade ciclomática, duplicação e cobertura de teste de unidade de código em cada solicitação de confirmação e pull.
 
  Você pode usar o Codacy para impor seu padrão de qualidade de código, economizar tempo em revisões de código, aplicar melhor as práticas recomendadas de segurança e os desenvolvedores onboard mais rapidamente. Integre com seus repositórios GitHub para obter uma análise de qualidade de cada solicitação pull dentro do GitHub.
-
+***
 Os objetivos da revisão de código mencionados em ambos os links incluem:
 *  Identificar erros e bugs no código.
 *  Melhorar a qualidade e legibilidade do código.
