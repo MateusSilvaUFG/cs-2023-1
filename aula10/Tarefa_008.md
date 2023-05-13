@@ -6,11 +6,13 @@
 2. A conformidade do compilador especificado é 11, mas um JRE 20 é usado java(o) [ln 1, Col 1]
 
 # Modelo
+
 ## teste.java
 1. A importação org.util.DataUtils nunca é usado Java(268435844) [ln 3, Col 8]
 2. A importação java.util.List nunca é usada Java(268435844) [ln 5, Col 8]
 
 # Util
+
 **CpfValidator.java**
 1. A importação org.model.Cliente nunca é usado Java(268435844) [ln 4, Col 8]
 
@@ -28,6 +30,7 @@ PassaporteValidator.java A importação org.model.Cliente nunca é usada Java(26
 5. A importação org .junit.Assert.assertTrue nunca é usado Java(268435844) [ln 11, Col 15]
 
 **amanda**
+
 **PremioSeguroTest.java**
 1. A importação org.util.DataUtils nunca é usada Java(268435844) [ln 5, Col 8]
 2. A importação org.junit.Assert nunca é usada Java(268435844) [ln 8, Col 8]
@@ -35,6 +38,7 @@ PassaporteValidator.java A importação org.model.Cliente nunca é usada Java(26
 4. A importação org.junit.Assert.assertTrue nunca é usada Java(268435844) [ln 11, Col 15]
 
 **andrey_dias**
+
 **TestClient.java**
 1. A importação org.junit.Assert.assertTrue nunca é usada Java(268435844) [ln 10, Col 15]
 2. O valor do resultado da variável local não é usado Java(268435844) [ln 35, Col 17]
