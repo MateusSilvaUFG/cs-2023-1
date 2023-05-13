@@ -179,6 +179,9 @@ PassaporteValidator.java A importação org.model.Cliente nunca é usada Java(26
 14. TODO Auto-generated method stub
 15. TODO Auto-generated method stub
 16. TODO Auto-generated method stub
+17. TODO Auto-generated method stub
+18. TODO Auto-generated method stub
+19. TODO Auto-generated method stub
 
 **Teste.java**
 1. The import org.util.DataUtils is never used
