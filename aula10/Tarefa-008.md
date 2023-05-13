@@ -52,12 +52,17 @@ The import org.junit.Assert.assertTrue is never used Java(268435844) [ln 11, Col
 andrey_dias
 
 **TestClient.java**
-The import org.junit.Assert.assertTrue is never used Java(268435844) [ln 10, Col 15]
-The value of the local variable result is not used Java(268435844) [ln 35, Col 17]
-The value of the local variable result is not used Java(268435844) [ln 40, Col 17]
-The value of the local variable result is not used Java(268435844) [ln 53, Col 17] 
-The value of the local variable result is not used Java(268435844) [ln 66, Col 17] 
-The value of the local variable result is not used Java(268435844) [ln 70, Col 17] 
-The value of the local variable result is not used Java(268435844) [ln 74, Col 17] 
-The value of the local variable result is not used Java(268435844) [ln 84, Col 17] 
+1.  The import org.junit.Assert.assertTrue is never used Java(268435844) [ln 10, Col 15]
+2.  The value of the local variable result is not used Java(268435844) [ln 35, Col 17]
+3.  The value of the local variable result is not used Java(268435844) [ln 40, Col 17]
+4.  The value of the local variable result is not used Java(268435844) [ln 53, Col 17] 
+5.  The value of the local variable result is not used Java(268435844) [ln 66, Col 17] 
+6.  The value of the local variable result is not used Java(268435844) [ln 70, Col 17] 
+7.  The value of the local variable result is not used Java(268435844) [ln 74, Col 17] 
+8.  The value of the local variable result is not used Java(268435844) [ln 84, Col 17] 
 
+**TestPremioSeguro.java**
+The import org.util.DataUtils is never used java(268435844) [Ln 5, Col8]
+The import org.junit.Before is never used java(268435844) [Ln 9, Col8]
+The import org.junit.Assert.assertEquals is never used java(268435844) [Ln 10, Col 15]
+The import org.junit.Assert.assertTrue is never used java(268435844) [Ln 11, Col 15]
