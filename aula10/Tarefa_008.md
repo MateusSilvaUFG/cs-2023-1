@@ -129,3 +129,282 @@ PassaporteValidator.java A importação org.model.Cliente nunca é usada Java(26
 **ClienteTest.java**
 
 1. The import org.junit.Assert.assertEquals is never used
+
+**PremioSeguroTest.java**
+1. The import org.util.DataUtils is never used
+2. The import org.junit.Assert is never used
+3. The import org.junit.Assert.assertEquals is never used
+
+**flavimar**
+
+**PremioSeguroTest.java**
+1. The import org.util.DataUtils is never used
+2. The import org.junit.Assert.assertEquals is never used
+3. The import org.junit.Assert.assertTrue is never used
+
+**gabriel_cardoso**
+
+**ClienteTest.java**
+
+1. The import org.junit.Assert.assertEquals is never used
+
+**PremioSeguroTest.java**
+1. The import org.util.DataUtils is never used
+2. The import org.junit.Assert is never used
+3. The import org.junit.Assert.assertEquals is never used
+
+**gabriel_cardoso2 - model**
+
+**Cliente.java**
+
+1. The value of the field Cliente.sexo is not used
+2. The value of the field Cliente.estadoCivil is not used
+3. The value of the field Cliente.nacionalidade is not used
+4. The value of the field Cliente.cpf is not used
+5. The value of the field Cliente.passaporte is not used
+
+1. TODO Auto-generated constructor stub
+2. TODO Auto-generated method stub
+3. TODO Auto-generated method stub
+4. TODO Auto-generated method stub
+5. TODO Auto-generated method stub
+6. TODO Auto-generated method stub
+7. TODO Auto-generated method stub
+8. TODO Auto-generated method stub
+9. TODO Auto-generated method stub
+10. TODO Auto-generated method stub
+11. TODO Auto-generated method stub
+12. TODO Auto-generated method stub
+13. TODO Auto-generated method stub
+14. TODO Auto-generated method stub
+15. TODO Auto-generated method stub
+16. TODO Auto-generated method stub
+
+**Teste.java**
+1. The import org.util.DataUtils is never used
+2. The import java.util.List is never used
+
+**util**
+
+**CpfValidator.java**
+
+1. The import org.model.Cliente is never used
+
+**DataUtils.java**
+1. The value of the local variable result is not used
+
+**PassaporteValidator.java**
+
+1. The import org.model.Cliente is never used
+2. The import java.util.Arrays is never used
+3. The import java.util.List is never used
+
+**Gabriel_mesquita**
+
+**ClienteTeste.java**
+1. The import org.junit.Assert.assertEquals is never used
+
+**PremioSeguroTest.java**
+1. The import org.util.DataUtils is never used
+2. The import org.junit.Assert is never used
+3. The import org.junit.Assert.assertEquals is never used
+4. The import org.junit.Assert.assertFalse is never used
+
+**Guilherme_faleiros**
+
+**ClienteTeste.java**
+1. The import org.util is never used
+2. The import org.junit.Assert.assertEquals is never used
+3. The import org.junit.Assert.assertTrue is never used
+4. The import org.junit.Assert.assertFalse is never used
+
+**PremioSeguroTest.java**
+1. The import org.util.DataUtils is never used
+2. The import org.junit.Assert is never used
+3. The import org.junit.Before is never used
+4. The import org.junit.Assert.assertTrue is never used
+5. The import org.junit.Assert.assertFalse is never used
+
+**gustavo_henrique**
+
+**ClienteTest.java**
+1. The import org.junit.Assert.assertEquals is never used
+2. The import org.junit.Assert.assertTrue is never used
+3. The import org.junit.Assert.assertFalse is never used
+
+1. TODO: handle exception
+2. TODO: handle exception
+3. TODO: handle exception
+4. TODO: handle exception
+5. TODO: handle exception
+
+**PremioSeguroTest.java**
+1. The import org.util.DataUtils is never used
+2. The import org.junit.Assert is never used
+3. The import org.junit.Before is never used
+4. The import org.junit.Assert.assertTrue is never used
+5. The import org.junit.Assert.assertFalse is never used
+6. The import org.junit.Assert.assertEquals is never used
+
+1. TODO: handle exception
+2. TODO: handle exception
+3. TODO: handle exception
+4. TODO: handle exception
+5. TODO: handle exception
+6. TODO: handle exception
+7. TODO: handle exception
+8. TODO: handle exception
+
+**joao_pedro**
+
+**ClienteTest.java**
+1. The import org.junit.Assert.assertTrue is never used
+2. The import org.junit.Assert.assertFalse is never used
+3. The value of the local variable result is not used
+4. The value of the local variable result is not used
+5. The value of the local variable result is not used
+6. The value of the local variable result is not used
+7. The value of the local variable result is not used
+8. The value of the local variable result is not used
+9. The value of the local variable result is not used
+
+**PremioSeguroTest.java**
+1. The import org.util.DataUtils is never used
+2. The import org.junit.Before is never used
+3. The import org.junit.Assert.assertEquals is never used
+4. The import org.junit.Assert.assertTrue is never used
+5. The import org.junit.Assert.assertFalse is never used
+
+**jose_teixeira**
+
+**ClienteTest.java**
+1. The import org.util is never used
+2. The import org.junit.Assert.assertEquals is never used
+3. The import org.junit.Assert.assertTrue is never used
+4. The import org.junit.Assert.assertFalse is never used
+
+**PremioSeguroTest.java**
+1. The import org.util.DataUtils is never used
+2. The import org.junit.Assert is never used
+3. The import org.junit.Assert.assertTrue is never used
+4. The import org.junit.Assert.assertFalse is never used
+
+**joyce_beatriz**
+
+**ClienteTest.java**
+1. The import org.util is never used
+2. The import org.junit.Assert.assertEquals is never used
+3. The import org.junit.Assert.assertTrue is never used
+4. The import org.junit.Assert.assertFalse is never used
+
+**PremioSeguroTest.java**
+1. The import org.util.DataUtils is never used
+2. The import org.junit.Assert is never used
+3. The import org.junit.Before is never used
+4. The import org.junit.Assert.assertEquals is never used
+5. The import org.junit.Assert.assertFalse is never used
+
+**kaua_jr**
+
+**ClienteTest.java**
+1. The import org.junit.Assert.assertEquals is never used
+
+**PremioSeguroTest.java**
+1. The import org.util.DataUtils is never used
+2. The import org.junit.Assert.assertEquals is never used
+3. The import org.junit.Assert.assertTrue is never used
+4. The import org.junit.Assert.assertFalse is never used
+
+**luca_bacheschi**
+
+**ClienteTest.java**
+1. The import org.junit.Assert.assertEquals is never used
+
+**PremioSeguroTest.java**
+1. The import org.util.DataUtils is never used
+2. The import org.junit.Assert.assertEquals is never used
+3. The import org.junit.Assert.assertTrue is never used
+4. The import org.junit.Assert.assertFalse is never used
+
+**lucas_oliveira**
+
+**ClienteTest.java**
+1. The import org.junit.Assert.assertEquals is never used
+2. The import org.junit.Assert.assertFalse is never used
+3. The import org.junit.Assert.assertTrue is never used
+
+**PremioSeguroTest.java**
+1. The import org.util.DataUtils is never used
+2. The import org.junit.Before is never used
+3. The import org.junit.Assert.assertTrue is never used
+4. The import org.junit.Assert.assertFalse is never used
+5. The import org.junit.Assert.assertEquals is never used
+
+**luis_eduardo**
+
+**ClienteTest.java**
+1. The import org.util is never used
+2. The import org.junit.Assert.assertEquals is never used
+3. The import org.junit.Assert.assertTrue is never used
+4. The import org.junit.Assert.assertFalse is never used
+
+**mozaniel**
+
+**ClienteTest.java**
+1. The import org.junit.Assert.assertTrue is never used
+2. The import org.junit.Assert.assertFalse is never used
+3. The value of the local variable result is not used
+4. The value of the local variable result is not used
+5. The value of the local variable result is not used
+6. The value of the local variable result is not used
+7. The value of the local variable result is not used
+8. The value of the local variable result is not used
+9. The value of the local variable result is not used
+
+**PremioSeguroTest.java**
+1. The import org.util.DataUtils is never used
+2. The import org.junit.Before is never used
+3. The import org.junit.Assert.assertTrue is never used
+4. The import org.junit.Assert.assertFalse is never used
+
+**randerson**
+
+**ClienteTest.java**
+1. The import org.junit.Assert.assertEquals is never used
+2. The import org.junit.Assert.assertTrue is never used
+3. The import org.junit.Assert.assertFalse is never used
+
+**PremioSeguroTest.java**
+1. The import org.util.DataUtils is never used
+2. The import org.junit.Before is never used
+3. The import org.junit.Assert.assertTrue is never used
+4. The import org.junit.Assert.assertFalse is never used
+
+**vitor_henrique**
+
+**ClienteTest.java**
+1. The import java.util.Date is never used
+2. The import org.junit.Assert.assertEquals is never used
+3. The import org.junit.Assert.assertTrue is never used
+4. The import org.junit.Assert.assertFalse is never used
+
+**PremioSeguroTest.java**
+1. The import org.util.DataUtils is never used
+2. The import org.junit.Before is never used
+3. The import org.junit.Assert.assertTrue is never used
+4. The import org.junit.Assert.assertFalse is never used
+
+**Wendel_marcio**
+
+**ClienteTest.java**
+1. The import org.junit.Assert.assertEquals is never used
+
+**PremioSeguroTest.java**
+1. The import org.util.DataUtils is never used
+2. The import org.junit.Assert.assertEquals is never used
+3. The import org.junit.Assert.assertFalse is never used
+
+**gilmar**
+
+**ClienteTest.java**
+1. The import org.junit.Assert.assertEquals is never used
