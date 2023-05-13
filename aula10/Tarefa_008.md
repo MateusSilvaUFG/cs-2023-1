@@ -55,4 +55,77 @@ PassaporteValidator.java A importação org.model.Cliente nunca é usada Java(26
 3. A importação org.junit.Assert .assertEquals nunca é usado java(268435844) [Ln 10, Col 15]
 4. A importação org.junit.Assert.assertTrue nunca é usada java(268435844) [Ln 11, Col 15]
 
+**arthur_castro**
 
+**ClienteTest.java**
+1. The import org.util is never used
+2. The import org.junit.Assert.assertEquals is never used
+3. The import org.junit.Assert.assertTrue is never used
+
+**PremioSeguroTest.java**
+1. The import org.util.DataUtils is never used
+2. The import org.junit.Assert is never used
+3. The import org.junit.Before is never used
+4. The import org.junit.Assert.assertTrue is never used
+
+**Arthur_moura**
+
+**ClienteTest.java**
+1. The import org.excecoes is never used
+2. The import org.junit.Before is never used
+3. The import org.junit.Assert.assertTrue is never used
+
+**PremioSeguroTest.java**
+1. The import org.util.DataUtils is never used
+2. The import org.junit.Assert is never used
+3. The import org.junit.Before is never used
+4. The import org.junit.Assert.assertTrue is never used
+
+**emanoel**
+
+**ClienteTest.java**
+1. The import org.util is never used
+2. The import org.junit.Assert.assertEquals is never used
+3. The import org.junit.Assert.assertTrue is never used
+
+**PremioSeguroTest.java**
+1. The import org.util.DataUtils is never used
+2. The import org.junit.Assert is never used
+3. The import org.junit.Assert.assertTrue is never used
+
+**felipe_galvao**
+
+**ClienteTest.java**
+1. The import org.util is never used
+2. The import org.junit.Assert.assertEquals is never used
+3. The import org.junit.Assert.assertTrue is never used
+
+**PremioSeguroTest.java**
+1. The import org.util.DataUtils is never used
+2. The import org.junit.Assert is never used
+3. The import org.junit.Before is never used
+4. The import org.junit.Assert.assertEquals is never used
+
+**felipe_ramos**
+
+**ClienteTest.java**
+1. The import org.junit.Assert.assertTrue is never used
+2. The value of the local variable result is not used
+3. The value of the local variable result is not used
+4. The value of the local variable result is not used
+5. The value of the local variable result is not used
+6. The value of the local variable result is not used
+7. The value of the local variable result is not used
+8. The value of the local variable result is not used
+
+**PremioSeguroTest.java**
+1. The import org.util.DataUtils is never used
+2. The import org.junit.Before is never used
+3. The import org.junit.Assert.assertEquals is never used
+4. The import org.junit.Assert.assertTrue is never used
+
+**felipe_silveira**
+
+**ClienteTest.java**
+
+1. The import org.junit.Assert.assertEquals is never used
