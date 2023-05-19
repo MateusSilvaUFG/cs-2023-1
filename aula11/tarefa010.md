@@ -11,7 +11,7 @@ Os códigos foram implementados em Python com a IDE VS Code e estão anexados à
 
 Após a implementação dos problemas ofertados, o SonarLint não apontou nenhuma alteração, houve o teste para saber se a ferramenta estava funcionando corretamente, onde após fazer o uso de um variável de forma incorreta ele apontou onde estava o problema e o que poderia ser feito para solucionar.
 
-![1](https://user-images.githubusercontent.com/131163948/233363809-57b8f9b4-36b7-466a-bd0e-ebeeb491cbd5.png)
+![sonarlint](https://github.com/MateusSilvaUFG/cs-2023-1/assets/131163948/cc9d355b-6c10-4999-8145-b026321f5204)
 
 # **Problemas**  
 1. Implementar um programa que:
@@ -46,7 +46,6 @@ Após a implementação dos problemas ofertados, o SonarLint não apontou nenhum
   * leia um número inteiro
   * e imprima o seu antecessor e seu sucessor.
 
-![1](https://user-images.githubusercontent.com/131163948/233363809-57b8f9b4-36b7-466a-bd0e-ebeeb491cbd5.png)
 
 # **INSTRUÇÕES**
 1. Todos estes programas devem ser implementados na linguagem de programação da preferênca do aluno (um arquivo de código-fonte para cada programa);
