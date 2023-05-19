@@ -9,7 +9,7 @@ Os códigos foram implementados em Python com a IDE VS Code e estão anexados à
 5. calculo_quantidade_salarios_minimos.py
 6.  antecessor_sucessor.py
 
-Após a implementação dos problemas ofertados, o SonarLint não apontou nenhuma alteração, houve o teste para saber se a ferramenta estava funcionando corretamente, onde após fazer o uso de um variável de forma incorreta ele apontou onde estava o problema e o que poderia ser feito para solucionar.
+Após a implementação dos problemas mencionados, constatou-se que o SonarLint não apresentou quaisquer alterações ou indicações de problemas. A fim de verificar se a ferramenta estava funcionando corretamente, um teste foi conduzido, no qual um uso incorreto de uma variável foi deliberadamente introduzido. Nesse teste, o SonarLint prontamente identificou a localização do problema e forneceu orientações sobre como solucioná-lo.
 
 ![sonarlint](https://github.com/MateusSilvaUFG/cs-2023-1/assets/131163948/cc9d355b-6c10-4999-8145-b026321f5204)
 
