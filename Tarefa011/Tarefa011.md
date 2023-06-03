@@ -104,8 +104,8 @@ class Zoologico {
 public class Main {
    public static void main(String[] args) {
        Zoologico zoo = new Zoologico();
-       Cachorro dog = new Cachorro("Luke", 12);
-       Cavalo horse = new Cavalo("Maximus", 10);
+       Cachorro dog = new Cachorro("Rex", 12);
+       Cavalo horse = new Cavalo("Thor", 10);
        Preguica sloth = new Preguica("Side", 5);
       
     
