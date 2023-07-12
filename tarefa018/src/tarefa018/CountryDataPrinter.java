@@ -1,8 +1,7 @@
-package tarefa018;
+package Tarefa018;
 
 import java.text.DateFormat;
 import java.text.DecimalFormat;
-import java.text.NumberFormat;
 import java.util.Currency;
 import java.util.Date;
 import java.util.Locale;
@@ -10,17 +9,19 @@ import java.util.ResourceBundle;
 
 public class CountryDataPrinter {
     public static void main(String[] args) {
+        System.setProperty("file.encoding", "UTF-8");
+
         Locale[] locales = {
-                Locale.US,
-                Locale.UK,
-                Locale.GERMANY,
-                Locale.FRANCE,
-                Locale.ITALY,
-                Locale.JAPAN,
-                new Locale("es", "ES"),
-                new Locale("pt", "BR"),
-                new Locale("ru", "RU"),
-                new Locale("zh", "CN")
+            Locale.US,
+            Locale.UK,
+            Locale.GERMANY,
+            Locale.FRANCE,
+            Locale.ITALY,
+            Locale.JAPAN,
+            new Locale("es", "ES"),
+            new Locale("pt", "BR"),
+            new Locale("ru", "RU"),
+            new Locale("zh", "CN")
         };
 
         for (Locale locale : locales) {
